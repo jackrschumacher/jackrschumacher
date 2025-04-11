@@ -3,7 +3,7 @@ Hello, im Jack Schumacher, a Student at the University of Alabama in Huntsville 
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackrschumacher&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackrschumacher)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackrschumacher&layout=compact)
 <!--
 **jackrschumacher/jackrschumacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
