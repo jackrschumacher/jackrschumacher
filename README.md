@@ -2,8 +2,8 @@
 Hello, im Jack Schumacher, a Student at the University of Alabama in Huntsville pursuing a degree in Buisness Information Systems with a concentration in cybersecurity. 
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackrschumacher&show_icons=true&theme=radical&hide_rank=true&title_color=ffffff&text_color=b0b0b0&icon_color=6699ff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackrschumacher&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackrschumacher&show_icons=true&theme=radical&hide_rank=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackrschumacher&layout=compact&theme=github_dark)
 <!--
 **jackrschumacher/jackrschumacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
