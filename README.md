@@ -1,5 +1,6 @@
 # About
-Hello, im Jack Schumacher, a Student at the University of Alabama in Huntsville pursuing a degree in Buisness Information Systems with a concentration in cybersecurity. 
+Hello, im Jack Schumacher, a Student at the University of Alabama in Huntsville pursuing a degree in Buisness Information Systems with a concentration in cybersecurity. \
+I work on the [SHC-ASTRA](https://github.com/SHC-ASTRA) Basestation and arm teams. In addition, I am a [FRC930](https://github.com/FRC930) alumni.
 
 ## Stats
 
