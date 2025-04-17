@@ -4,9 +4,27 @@ I work on the [SHC-ASTRA](https://github.com/SHC-ASTRA) basestation and arm team
 
 ## Stats
 
-<a href="">
-  <img height=200 align="center" src="https://jackr-github-readme-stats.vercel.app/api?username=jackrschumacher&show_icons=true&hide_rank=true&theme=github_dark" />
-</a>
-<a href="">
-  <img height=200 align="center" src="https://jackr-github-readme-stats.vercel.app/api/top-langs/?username=jackrschumacher&layout=compact&theme=github_dark&langs_count=8" />
-</a>
+<picture>
+  <source
+    srcset="https://jackr-github-readme-stats.vercel.app/api?username=jackrschumacher&show_icons=true&hide_rank=true&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://jackr-github-readme-stats.vercel.app/api?username=jackrschumacher&show_icons=true&hide_rank=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://jackr-github-readme-stats.vercel.app/api?username=jackrschumacher&show_icons=true&hide_rank=true&theme=default" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://jackr-github-readme-stats.vercel.app/api/top-langs/?username=jackrschumacher&layout=compact&theme=github_dark&langs_count=8"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://jackr-github-readme-stats.vercel.app/api/top-langs/?username=jackrschumacher&layout=compact&theme=default&langs_count=8"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://jackr-github-readme-stats.vercel.app/api/top-langs/?username=jackrschumacher&layout=compact&theme=default&langs_count=8" />
+</picture>
+
