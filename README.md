@@ -6,7 +6,7 @@ I work on the [SHC-ASTRA](https://github.com/SHC-ASTRA) basestation and arm team
 
 <picture>
   <source
-    srcset="https://jackr-github-readme-stats.vercel.app/api?username=jackrschumacher&show_icons=true&hide_rank=true&theme=github_dark"
+    srcset="https://jackr-github-readme-stats.vercel.app/api?username=jackrschumacher&show_icons=true&hide_rank=true&theme=github_dark&show=prs_merged"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -15,6 +15,7 @@ I work on the [SHC-ASTRA](https://github.com/SHC-ASTRA) basestation and arm team
   />
   <img height=200 align="center" src="https://jackr-github-readme-stats.vercel.app/api?username=jackrschumacher&show_icons=true&hide_rank=true&theme=default" />
 </picture>
+
 
 <picture>
   <source
