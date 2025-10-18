@@ -1,6 +1,6 @@
 # About
-Hello, im Jack Schumacher, a Student at the University of Alabama in Huntsville pursuing a degree in Buisness Information Systems with a concentration in cybersecurity. \
-I work on the [SHC-ASTRA](https://github.com/SHC-ASTRA) basestation and arm teams. In addition, I am a [FRC930](https://github.com/FRC930) alumni.
+Hello, I'm Jack Schumacher, a Student at the University of Alabama in Huntsville pursuing a degree in Business Information Systems with a concentration in cybersecurity. \
+I work on the [SHC-ASTRA](https://github.com/SHC-ASTRA) basestation and arm teams. 
 
 ## Stats
 
@@ -28,4 +28,3 @@ I work on the [SHC-ASTRA](https://github.com/SHC-ASTRA) basestation and arm team
   />
   <img height=200 align="center" src="https://jackr-github-readme-stats.vercel.app/api/top-langs/?username=jackrschumacher&layout=compact&theme=default&langs_count=8" />
 </picture>
-
